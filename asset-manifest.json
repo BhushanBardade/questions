@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/questios/static/css/main.790db59e.chunk.css",
-    "main.js": "/questios/static/js/main.f0f74bc0.chunk.js",
-    "main.js.map": "/questios/static/js/main.f0f74bc0.chunk.js.map",
-    "runtime-main.js": "/questios/static/js/runtime-main.c5d6c17e.js",
-    "runtime-main.js.map": "/questios/static/js/runtime-main.c5d6c17e.js.map",
-    "static/js/2.67c9bd26.chunk.js": "/questios/static/js/2.67c9bd26.chunk.js",
-    "static/js/2.67c9bd26.chunk.js.map": "/questios/static/js/2.67c9bd26.chunk.js.map",
-    "index.html": "/questios/index.html",
-    "static/css/main.790db59e.chunk.css.map": "/questios/static/css/main.790db59e.chunk.css.map",
-    "static/js/2.67c9bd26.chunk.js.LICENSE.txt": "/questios/static/js/2.67c9bd26.chunk.js.LICENSE.txt"
+    "main.css": "/questions/static/css/main.790db59e.chunk.css",
+    "main.js": "/questions/static/js/main.f0f74bc0.chunk.js",
+    "main.js.map": "/questions/static/js/main.f0f74bc0.chunk.js.map",
+    "runtime-main.js": "/questions/static/js/runtime-main.2ddbc7ad.js",
+    "runtime-main.js.map": "/questions/static/js/runtime-main.2ddbc7ad.js.map",
+    "static/js/2.67c9bd26.chunk.js": "/questions/static/js/2.67c9bd26.chunk.js",
+    "static/js/2.67c9bd26.chunk.js.map": "/questions/static/js/2.67c9bd26.chunk.js.map",
+    "index.html": "/questions/index.html",
+    "static/css/main.790db59e.chunk.css.map": "/questions/static/css/main.790db59e.chunk.css.map",
+    "static/js/2.67c9bd26.chunk.js.LICENSE.txt": "/questions/static/js/2.67c9bd26.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5d6c17e.js",
+    "static/js/runtime-main.2ddbc7ad.js",
     "static/js/2.67c9bd26.chunk.js",
     "static/css/main.790db59e.chunk.css",
     "static/js/main.f0f74bc0.chunk.js"
